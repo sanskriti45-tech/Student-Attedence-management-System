@@ -1,0 +1,16 @@
+[
+    {
+        "leave_id": "LR0001",
+        "student_id": "S1003",
+        "date_str": "2026-06-07",
+        "reason": "Family Emergency",
+        "status": "Approved"
+    },
+    {
+        "leave_id": "LR0002",
+        "student_id": "S1002",
+        "date_str": "2026-06-09",
+        "reason": "Medical Leave",
+        "status": "Pending"
+    }
+]

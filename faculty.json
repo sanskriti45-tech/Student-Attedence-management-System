@@ -1,0 +1,18 @@
+[
+    {
+        "person_id": "P501",
+        "name": "Dr. Robert Hoare",
+        "email": "hoare@univ.edu",
+        "mobile_number": "9000000001",
+        "faculty_id": "F1001",
+        "department": "Computer Science"
+    },
+    {
+        "person_id": "P502",
+        "name": "Prof. Sarah Jenkins",
+        "email": "jenkins@univ.edu",
+        "mobile_number": "9000000002",
+        "faculty_id": "F1002",
+        "department": "Mechanical Engineering"
+    }
+]

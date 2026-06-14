@@ -1,0 +1,66 @@
+[2026-06-10 22:56:38] ATTENDANCE MARKED: Student ID S1001 on 2026-05-31 marked as Present.
+[2026-06-10 22:56:38] ATTENDANCE MARKED: Student ID S1002 on 2026-05-31 marked as Present.
+[2026-06-10 22:56:38] ATTENDANCE MARKED: Student ID S1003 on 2026-05-31 marked as Present.
+[2026-06-10 22:56:38] ATTENDANCE MARKED: Student ID S1004 on 2026-05-31 marked as Present.
+[2026-06-10 22:56:38] NOTIFICATION SENT: ALERT: Student Evan Wright (S1005) was marked ABSENT today....
+[2026-06-10 22:56:38] ATTENDANCE MARKED: Student ID S1005 on 2026-05-31 marked as Absent.
+[2026-06-10 22:56:38] ATTENDANCE MARKED: Student ID S1001 on 2026-06-01 marked as Present.
+[2026-06-10 22:56:38] NOTIFICATION SENT: ALERT: Student Bob Smith (S1002) was marked ABSENT today....
+[2026-06-10 22:56:38] ATTENDANCE MARKED: Student ID S1002 on 2026-06-01 marked as Absent.
+[2026-06-10 22:56:38] ATTENDANCE MARKED: Student ID S1003 on 2026-06-01 marked as Present.
+[2026-06-10 22:56:38] ATTENDANCE MARKED: Student ID S1004 on 2026-06-01 marked as Present.
+[2026-06-10 22:56:38] NOTIFICATION SENT: ALERT: Student Evan Wright (S1005) was marked ABSENT today....
+[2026-06-10 22:56:38] ATTENDANCE MARKED: Student ID S1005 on 2026-06-01 marked as Absent.
+[2026-06-10 22:56:38] ATTENDANCE MARKED: Student ID S1001 on 2026-06-02 marked as Present.
+[2026-06-10 22:56:38] ATTENDANCE MARKED: Student ID S1002 on 2026-06-02 marked as Present.
+[2026-06-10 22:56:38] ATTENDANCE MARKED: Student ID S1003 on 2026-06-02 marked as Present.
+[2026-06-10 22:56:38] ATTENDANCE MARKED: Student ID S1004 on 2026-06-02 marked as Present.
+[2026-06-10 22:56:38] NOTIFICATION SENT: ALERT: Student Evan Wright (S1005) was marked ABSENT today....
+[2026-06-10 22:56:38] ATTENDANCE MARKED: Student ID S1005 on 2026-06-02 marked as Absent.
+[2026-06-10 22:56:38] ATTENDANCE MARKED: Student ID S1001 on 2026-06-03 marked as Present.
+[2026-06-10 22:56:38] NOTIFICATION SENT: ALERT: Student Bob Smith (S1002) was marked ABSENT today....
+[2026-06-10 22:56:38] ATTENDANCE MARKED: Student ID S1002 on 2026-06-03 marked as Absent.
+[2026-06-10 22:56:38] NOTIFICATION SENT: ALERT: Student Charlie Brown (S1003) was marked ABSENT today...
+[2026-06-10 22:56:38] ATTENDANCE MARKED: Student ID S1003 on 2026-06-03 marked as Absent.
+[2026-06-10 22:56:38] ATTENDANCE MARKED: Student ID S1004 on 2026-06-03 marked as Present.
+[2026-06-10 22:56:38] NOTIFICATION SENT: ALERT: Student Evan Wright (S1005) was marked ABSENT today....
+[2026-06-10 22:56:38] ATTENDANCE MARKED: Student ID S1005 on 2026-06-03 marked as Absent.
+[2026-06-10 22:56:38] ATTENDANCE MARKED: Student ID S1001 on 2026-06-04 marked as Present.
+[2026-06-10 22:56:38] ATTENDANCE MARKED: Student ID S1002 on 2026-06-04 marked as Present.
+[2026-06-10 22:56:38] ATTENDANCE MARKED: Student ID S1003 on 2026-06-04 marked as Present.
+[2026-06-10 22:56:38] ATTENDANCE MARKED: Student ID S1004 on 2026-06-04 marked as Present.
+[2026-06-10 22:56:38] NOTIFICATION SENT: ALERT: Student Evan Wright (S1005) was marked ABSENT today....
+[2026-06-10 22:56:38] ATTENDANCE MARKED: Student ID S1005 on 2026-06-04 marked as Absent.
+[2026-06-10 22:56:38] NOTIFICATION SENT: ALERT: Student Alice Vance (S1001) was marked ABSENT today....
+[2026-06-10 22:56:38] ATTENDANCE MARKED: Student ID S1001 on 2026-06-05 marked as Absent.
+[2026-06-10 22:56:38] NOTIFICATION SENT: ALERT: Student Bob Smith (S1002) was marked ABSENT today....
+[2026-06-10 22:56:38] ATTENDANCE MARKED: Student ID S1002 on 2026-06-05 marked as Absent.
+[2026-06-10 22:56:38] ATTENDANCE MARKED: Student ID S1003 on 2026-06-05 marked as Present.
+[2026-06-10 22:56:38] ATTENDANCE MARKED: Student ID S1004 on 2026-06-05 marked as Present.
+[2026-06-10 22:56:38] NOTIFICATION SENT: ALERT: Student Evan Wright (S1005) was marked ABSENT today....
+[2026-06-10 22:56:38] ATTENDANCE MARKED: Student ID S1005 on 2026-06-05 marked as Absent.
+[2026-06-10 22:56:38] ATTENDANCE MARKED: Student ID S1001 on 2026-06-06 marked as Present.
+[2026-06-10 22:56:38] ATTENDANCE MARKED: Student ID S1002 on 2026-06-06 marked as Present.
+[2026-06-10 22:56:38] ATTENDANCE MARKED: Student ID S1003 on 2026-06-06 marked as Present.
+[2026-06-10 22:56:38] ATTENDANCE MARKED: Student ID S1004 on 2026-06-06 marked as Present.
+[2026-06-10 22:56:38] ATTENDANCE MARKED: Student ID S1005 on 2026-06-06 marked as Present.
+[2026-06-10 22:56:38] ATTENDANCE MARKED: Student ID S1001 on 2026-06-07 marked as Present.
+[2026-06-10 22:56:38] NOTIFICATION SENT: ALERT: Student Bob Smith (S1002) was marked ABSENT today....
+[2026-06-10 22:56:38] ATTENDANCE MARKED: Student ID S1002 on 2026-06-07 marked as Absent.
+[2026-06-10 22:56:38] NOTIFICATION SENT: ALERT: Student Charlie Brown (S1003) was marked ABSENT today...
+[2026-06-10 22:56:38] ATTENDANCE MARKED: Student ID S1003 on 2026-06-07 marked as Absent.
+[2026-06-10 22:56:38] ATTENDANCE MARKED: Student ID S1004 on 2026-06-07 marked as Present.
+[2026-06-10 22:56:38] ATTENDANCE MARKED: Student ID S1005 on 2026-06-07 marked as Present.
+[2026-06-10 22:56:38] ATTENDANCE MARKED: Student ID S1001 on 2026-06-08 marked as Present.
+[2026-06-10 22:56:38] ATTENDANCE MARKED: Student ID S1002 on 2026-06-08 marked as Present.
+[2026-06-10 22:56:38] ATTENDANCE MARKED: Student ID S1003 on 2026-06-08 marked as Present.
+[2026-06-10 22:56:38] ATTENDANCE MARKED: Student ID S1004 on 2026-06-08 marked as Present.
+[2026-06-10 22:56:38] ATTENDANCE MARKED: Student ID S1005 on 2026-06-08 marked as Present.
+[2026-06-10 22:56:38] ATTENDANCE MARKED: Student ID S1001 on 2026-06-09 marked as Present.
+[2026-06-10 22:56:38] NOTIFICATION SENT: ALERT: Student Bob Smith (S1002) was marked ABSENT today....
+[2026-06-10 22:56:38] ATTENDANCE MARKED: Student ID S1002 on 2026-06-09 marked as Absent.
+[2026-06-10 22:56:38] ATTENDANCE MARKED: Student ID S1003 on 2026-06-09 marked as Present.
+[2026-06-10 22:56:38] ATTENDANCE MARKED: Student ID S1004 on 2026-06-09 marked as Present.
+[2026-06-10 22:56:38] ATTENDANCE MARKED: Student ID S1005 on 2026-06-09 marked as Present.
+[2026-06-10 22:56:38] NOTIFICATION SENT: Leave approved for Student S1003 on 2026-06-07 by Prof. Sara...
+[2026-06-10 22:56:38] LEAVE APPROVAL: Leave request LR0001 updated to Approved.

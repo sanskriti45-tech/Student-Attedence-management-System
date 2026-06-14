@@ -1,0 +1,77 @@
+[
+    {
+        "notification_id": "NOT0001",
+        "message": "ALERT: Student Evan Wright (S1005) was marked ABSENT today.",
+        "notification_date": "2026-06-10 22:56:38"
+    },
+    {
+        "notification_id": "NOT0002",
+        "message": "ALERT: Student Bob Smith (S1002) was marked ABSENT today.",
+        "notification_date": "2026-06-10 22:56:38"
+    },
+    {
+        "notification_id": "NOT0003",
+        "message": "ALERT: Student Evan Wright (S1005) was marked ABSENT today.",
+        "notification_date": "2026-06-10 22:56:38"
+    },
+    {
+        "notification_id": "NOT0004",
+        "message": "ALERT: Student Evan Wright (S1005) was marked ABSENT today.",
+        "notification_date": "2026-06-10 22:56:38"
+    },
+    {
+        "notification_id": "NOT0005",
+        "message": "ALERT: Student Bob Smith (S1002) was marked ABSENT today.",
+        "notification_date": "2026-06-10 22:56:38"
+    },
+    {
+        "notification_id": "NOT0006",
+        "message": "ALERT: Student Charlie Brown (S1003) was marked ABSENT today.",
+        "notification_date": "2026-06-10 22:56:38"
+    },
+    {
+        "notification_id": "NOT0007",
+        "message": "ALERT: Student Evan Wright (S1005) was marked ABSENT today.",
+        "notification_date": "2026-06-10 22:56:38"
+    },
+    {
+        "notification_id": "NOT0008",
+        "message": "ALERT: Student Evan Wright (S1005) was marked ABSENT today.",
+        "notification_date": "2026-06-10 22:56:38"
+    },
+    {
+        "notification_id": "NOT0009",
+        "message": "ALERT: Student Alice Vance (S1001) was marked ABSENT today.",
+        "notification_date": "2026-06-10 22:56:38"
+    },
+    {
+        "notification_id": "NOT0010",
+        "message": "ALERT: Student Bob Smith (S1002) was marked ABSENT today.",
+        "notification_date": "2026-06-10 22:56:38"
+    },
+    {
+        "notification_id": "NOT0011",
+        "message": "ALERT: Student Evan Wright (S1005) was marked ABSENT today.",
+        "notification_date": "2026-06-10 22:56:38"
+    },
+    {
+        "notification_id": "NOT0012",
+        "message": "ALERT: Student Bob Smith (S1002) was marked ABSENT today.",
+        "notification_date": "2026-06-10 22:56:38"
+    },
+    {
+        "notification_id": "NOT0013",
+        "message": "ALERT: Student Charlie Brown (S1003) was marked ABSENT today.",
+        "notification_date": "2026-06-10 22:56:38"
+    },
+    {
+        "notification_id": "NOT0014",
+        "message": "ALERT: Student Bob Smith (S1002) was marked ABSENT today.",
+        "notification_date": "2026-06-10 22:56:38"
+    },
+    {
+        "notification_id": "NOT0015",
+        "message": "Leave approved for Student S1003 on 2026-06-07 by Prof. Sarah Jenkins.",
+        "notification_date": "2026-06-10 22:56:38"
+    }
+]

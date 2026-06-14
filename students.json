@@ -1,0 +1,42 @@
+[
+    {
+        "person_id": "P101",
+        "name": "Alice Vance",
+        "email": "alice@univ.edu",
+        "mobile_number": "9876543210",
+        "student_id": "S1001",
+        "course": "Computer Science"
+    },
+    {
+        "person_id": "P102",
+        "name": "Bob Smith",
+        "email": "bob@univ.edu",
+        "mobile_number": "9876543211",
+        "student_id": "S1002",
+        "course": "Computer Science"
+    },
+    {
+        "person_id": "P103",
+        "name": "Charlie Brown",
+        "email": "charlie@univ.edu",
+        "mobile_number": "9876543212",
+        "student_id": "S1003",
+        "course": "Mechanical Engineering"
+    },
+    {
+        "person_id": "P104",
+        "name": "Diana Prince",
+        "email": "diana@univ.edu",
+        "mobile_number": "9876543213",
+        "student_id": "S1004",
+        "course": "Electrical Engineering"
+    },
+    {
+        "person_id": "P105",
+        "name": "Evan Wright",
+        "email": "evan@univ.edu",
+        "mobile_number": "9876543214",
+        "student_id": "S1005",
+        "course": "Computer Science"
+    }
+]

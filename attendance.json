@@ -1,0 +1,352 @@
+[
+    {
+        "attendance_id": "ATT0001",
+        "student_id": "S1001",
+        "date": "2026-05-31",
+        "status": "Present",
+        "marked_by": "Dr. Robert Hoare"
+    },
+    {
+        "attendance_id": "ATT0002",
+        "student_id": "S1002",
+        "date": "2026-05-31",
+        "status": "Present",
+        "marked_by": "Dr. Robert Hoare"
+    },
+    {
+        "attendance_id": "ATT0003",
+        "student_id": "S1003",
+        "date": "2026-05-31",
+        "status": "Present",
+        "marked_by": "Prof. Sarah Jenkins"
+    },
+    {
+        "attendance_id": "ATT0004",
+        "student_id": "S1004",
+        "date": "2026-05-31",
+        "status": "Present",
+        "marked_by": "Prof. Sarah Jenkins"
+    },
+    {
+        "attendance_id": "ATT0005",
+        "student_id": "S1005",
+        "date": "2026-05-31",
+        "status": "Absent",
+        "marked_by": "Dr. Robert Hoare"
+    },
+    {
+        "attendance_id": "ATT0006",
+        "student_id": "S1001",
+        "date": "2026-06-01",
+        "status": "Present",
+        "marked_by": "Dr. Robert Hoare"
+    },
+    {
+        "attendance_id": "ATT0007",
+        "student_id": "S1002",
+        "date": "2026-06-01",
+        "status": "Absent",
+        "marked_by": "Dr. Robert Hoare"
+    },
+    {
+        "attendance_id": "ATT0008",
+        "student_id": "S1003",
+        "date": "2026-06-01",
+        "status": "Present",
+        "marked_by": "Prof. Sarah Jenkins"
+    },
+    {
+        "attendance_id": "ATT0009",
+        "student_id": "S1004",
+        "date": "2026-06-01",
+        "status": "Present",
+        "marked_by": "Prof. Sarah Jenkins"
+    },
+    {
+        "attendance_id": "ATT0010",
+        "student_id": "S1005",
+        "date": "2026-06-01",
+        "status": "Absent",
+        "marked_by": "Dr. Robert Hoare"
+    },
+    {
+        "attendance_id": "ATT0011",
+        "student_id": "S1001",
+        "date": "2026-06-02",
+        "status": "Present",
+        "marked_by": "Dr. Robert Hoare"
+    },
+    {
+        "attendance_id": "ATT0012",
+        "student_id": "S1002",
+        "date": "2026-06-02",
+        "status": "Present",
+        "marked_by": "Dr. Robert Hoare"
+    },
+    {
+        "attendance_id": "ATT0013",
+        "student_id": "S1003",
+        "date": "2026-06-02",
+        "status": "Present",
+        "marked_by": "Prof. Sarah Jenkins"
+    },
+    {
+        "attendance_id": "ATT0014",
+        "student_id": "S1004",
+        "date": "2026-06-02",
+        "status": "Present",
+        "marked_by": "Prof. Sarah Jenkins"
+    },
+    {
+        "attendance_id": "ATT0015",
+        "student_id": "S1005",
+        "date": "2026-06-02",
+        "status": "Absent",
+        "marked_by": "Dr. Robert Hoare"
+    },
+    {
+        "attendance_id": "ATT0016",
+        "student_id": "S1001",
+        "date": "2026-06-03",
+        "status": "Present",
+        "marked_by": "Dr. Robert Hoare"
+    },
+    {
+        "attendance_id": "ATT0017",
+        "student_id": "S1002",
+        "date": "2026-06-03",
+        "status": "Absent",
+        "marked_by": "Dr. Robert Hoare"
+    },
+    {
+        "attendance_id": "ATT0018",
+        "student_id": "S1003",
+        "date": "2026-06-03",
+        "status": "Absent",
+        "marked_by": "Prof. Sarah Jenkins"
+    },
+    {
+        "attendance_id": "ATT0019",
+        "student_id": "S1004",
+        "date": "2026-06-03",
+        "status": "Present",
+        "marked_by": "Prof. Sarah Jenkins"
+    },
+    {
+        "attendance_id": "ATT0020",
+        "student_id": "S1005",
+        "date": "2026-06-03",
+        "status": "Absent",
+        "marked_by": "Dr. Robert Hoare"
+    },
+    {
+        "attendance_id": "ATT0021",
+        "student_id": "S1001",
+        "date": "2026-06-04",
+        "status": "Present",
+        "marked_by": "Dr. Robert Hoare"
+    },
+    {
+        "attendance_id": "ATT0022",
+        "student_id": "S1002",
+        "date": "2026-06-04",
+        "status": "Present",
+        "marked_by": "Dr. Robert Hoare"
+    },
+    {
+        "attendance_id": "ATT0023",
+        "student_id": "S1003",
+        "date": "2026-06-04",
+        "status": "Present",
+        "marked_by": "Prof. Sarah Jenkins"
+    },
+    {
+        "attendance_id": "ATT0024",
+        "student_id": "S1004",
+        "date": "2026-06-04",
+        "status": "Present",
+        "marked_by": "Prof. Sarah Jenkins"
+    },
+    {
+        "attendance_id": "ATT0025",
+        "student_id": "S1005",
+        "date": "2026-06-04",
+        "status": "Absent",
+        "marked_by": "Dr. Robert Hoare"
+    },
+    {
+        "attendance_id": "ATT0026",
+        "student_id": "S1001",
+        "date": "2026-06-05",
+        "status": "Absent",
+        "marked_by": "Dr. Robert Hoare"
+    },
+    {
+        "attendance_id": "ATT0027",
+        "student_id": "S1002",
+        "date": "2026-06-05",
+        "status": "Absent",
+        "marked_by": "Dr. Robert Hoare"
+    },
+    {
+        "attendance_id": "ATT0028",
+        "student_id": "S1003",
+        "date": "2026-06-05",
+        "status": "Present",
+        "marked_by": "Prof. Sarah Jenkins"
+    },
+    {
+        "attendance_id": "ATT0029",
+        "student_id": "S1004",
+        "date": "2026-06-05",
+        "status": "Present",
+        "marked_by": "Prof. Sarah Jenkins"
+    },
+    {
+        "attendance_id": "ATT0030",
+        "student_id": "S1005",
+        "date": "2026-06-05",
+        "status": "Absent",
+        "marked_by": "Dr. Robert Hoare"
+    },
+    {
+        "attendance_id": "ATT0031",
+        "student_id": "S1001",
+        "date": "2026-06-06",
+        "status": "Present",
+        "marked_by": "Dr. Robert Hoare"
+    },
+    {
+        "attendance_id": "ATT0032",
+        "student_id": "S1002",
+        "date": "2026-06-06",
+        "status": "Present",
+        "marked_by": "Dr. Robert Hoare"
+    },
+    {
+        "attendance_id": "ATT0033",
+        "student_id": "S1003",
+        "date": "2026-06-06",
+        "status": "Present",
+        "marked_by": "Prof. Sarah Jenkins"
+    },
+    {
+        "attendance_id": "ATT0034",
+        "student_id": "S1004",
+        "date": "2026-06-06",
+        "status": "Present",
+        "marked_by": "Prof. Sarah Jenkins"
+    },
+    {
+        "attendance_id": "ATT0035",
+        "student_id": "S1005",
+        "date": "2026-06-06",
+        "status": "Present",
+        "marked_by": "Dr. Robert Hoare"
+    },
+    {
+        "attendance_id": "ATT0036",
+        "student_id": "S1001",
+        "date": "2026-06-07",
+        "status": "Present",
+        "marked_by": "Dr. Robert Hoare"
+    },
+    {
+        "attendance_id": "ATT0037",
+        "student_id": "S1002",
+        "date": "2026-06-07",
+        "status": "Absent",
+        "marked_by": "Dr. Robert Hoare"
+    },
+    {
+        "attendance_id": "ATT0038",
+        "student_id": "S1003",
+        "date": "2026-06-07",
+        "status": "Leave",
+        "marked_by": "Prof. Sarah Jenkins / Updated by Prof. Sarah Jenkins"
+    },
+    {
+        "attendance_id": "ATT0039",
+        "student_id": "S1004",
+        "date": "2026-06-07",
+        "status": "Present",
+        "marked_by": "Prof. Sarah Jenkins"
+    },
+    {
+        "attendance_id": "ATT0040",
+        "student_id": "S1005",
+        "date": "2026-06-07",
+        "status": "Present",
+        "marked_by": "Dr. Robert Hoare"
+    },
+    {
+        "attendance_id": "ATT0041",
+        "student_id": "S1001",
+        "date": "2026-06-08",
+        "status": "Present",
+        "marked_by": "Dr. Robert Hoare"
+    },
+    {
+        "attendance_id": "ATT0042",
+        "student_id": "S1002",
+        "date": "2026-06-08",
+        "status": "Present",
+        "marked_by": "Dr. Robert Hoare"
+    },
+    {
+        "attendance_id": "ATT0043",
+        "student_id": "S1003",
+        "date": "2026-06-08",
+        "status": "Present",
+        "marked_by": "Prof. Sarah Jenkins"
+    },
+    {
+        "attendance_id": "ATT0044",
+        "student_id": "S1004",
+        "date": "2026-06-08",
+        "status": "Present",
+        "marked_by": "Prof. Sarah Jenkins"
+    },
+    {
+        "attendance_id": "ATT0045",
+        "student_id": "S1005",
+        "date": "2026-06-08",
+        "status": "Present",
+        "marked_by": "Dr. Robert Hoare"
+    },
+    {
+        "attendance_id": "ATT0046",
+        "student_id": "S1001",
+        "date": "2026-06-09",
+        "status": "Present",
+        "marked_by": "Dr. Robert Hoare"
+    },
+    {
+        "attendance_id": "ATT0047",
+        "student_id": "S1002",
+        "date": "2026-06-09",
+        "status": "Absent",
+        "marked_by": "Dr. Robert Hoare"
+    },
+    {
+        "attendance_id": "ATT0048",
+        "student_id": "S1003",
+        "date": "2026-06-09",
+        "status": "Present",
+        "marked_by": "Prof. Sarah Jenkins"
+    },
+    {
+        "attendance_id": "ATT0049",
+        "student_id": "S1004",
+        "date": "2026-06-09",
+        "status": "Present",
+        "marked_by": "Prof. Sarah Jenkins"
+    },
+    {
+        "attendance_id": "ATT0050",
+        "student_id": "S1005",
+        "date": "2026-06-09",
+        "status": "Present",
+        "marked_by": "Dr. Robert Hoare"
+    }
+]
